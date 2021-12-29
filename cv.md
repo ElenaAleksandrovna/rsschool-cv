@@ -19,3 +19,7 @@
 **Phone :** +375293672978
 
 **Email:** elenasidorova9219@gmail.com
+## Courses
+* HTML5, CSS3. JavaScript, Belhard
+* HTML Academy
+* Codecademy
