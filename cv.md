@@ -12,7 +12,9 @@
 * HTML5
 * CSS
 * Javascript
-* English (Upper-Intermediate+)
+## Languages
+* English - B2+
+* German - A2
 ## Contact
 **Phone :** +375293672978
 
