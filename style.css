@@ -26,5 +26,15 @@ img.photo {
 }
 hr.between-blocks {
     margin: 35px;
+    border-style: solid;
     color: tan;
+}
+li::marker {
+    color: tan;
+}
+h2 {
+    color: darkgray;
+}
+h1 {
+    color: dimgray;
 }
