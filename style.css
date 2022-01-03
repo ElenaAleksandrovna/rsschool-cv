@@ -47,5 +47,13 @@ ul.navigation > li{
     margin: 10px;
 }
 footer {
+    display: flex;
+    flex: 3 3 50%;
+    justify-content: space-between;
+    text-align: center;
     background-color: tan;
+}
+footer img {
+    background-color: tan;
+    margin: 15px 35px;
 }
