@@ -20,7 +20,7 @@ hr.between-blocks {
     border-style: solid;
     color: tan;
 }
-li::marker {
+main li::marker {
     color: tan;
 }
 h2 {
@@ -35,5 +35,17 @@ main {
 .first-column {
     margin-right: 100px;
     margin-left: 35px;
-    background-color: wheat;
+}
+.navigation {
+    display: flex;
+    justify-content: end;
+    background-color: tan;
+    color: dimgray;
+}
+ul.navigation > li{
+    list-style-type: none;
+    margin: 10px;
+}
+footer {
+    background-color: tan;
 }
