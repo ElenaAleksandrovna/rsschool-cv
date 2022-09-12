@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main-info {
+    display: flex;
+}
+.row-section {
+    display: flex;
+    flex-direction: column;
+    flex: 3 3 50%;
+}
+.head-elems {
+ display: flex;
+}
+.head-pairs {
+    flex: 3 3 50%;
+}
+div.head-pairs {
+    text-align: center;
+}
+.two-headers {
+    padding: 20px;
+}
+img.photo {
+    border-radius: 50%;
+}
+hr.between-blocks {
+    margin: 35px;
+    border-style: solid;
+    color: tan;
+}
+li::marker {
+    color: tan;
+}
+h2 {
+    color: darkgray;
+}
+h1 {
+    color: dimgray;
+}
